@@ -1,6 +1,8 @@
 # kaggle_GoDaddy_Business_Density_Prediction
 
-# Project Description
+# Project under contruction... will be back soon!
 
-# Methodology
+## Project Description
+
+## Methodology
 
